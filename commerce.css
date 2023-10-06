@@ -30,6 +30,7 @@ body {
     justify-content: space-between;
     background-color: white;
     margin-top: 1rem;
+    border-bottom: solid hsl(220, 14%, 75%) 0.1px;
     
 }
 .nav{
